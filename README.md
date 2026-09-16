@@ -1,2 +1,1 @@
-# cafe-glueck-static
-Public static assets for Café Glück Kiefersfelden (CDN/jsDelivr + deploy source)
+Public static source for Café Glück Kiefersfelden. Served via jsDelivr for production asset CDN.
