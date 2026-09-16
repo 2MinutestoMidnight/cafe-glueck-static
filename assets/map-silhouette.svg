@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Karte Platzhalter"><rect width="200" height="200" fill="#E8DCC8"/><path d="M40 140 L80 60 L120 110 L160 50 L160 140 Z" fill="#2A2B2E" opacity=".35"/><circle cx="100" cy="95" r="8" fill="#C23A4B"/><text x="100" y="175" text-anchor="middle" fill="#1A1B1D" font-size="12" font-family="system-ui,sans-serif">Kiefersfelden</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-labelledby="mp-title">
+  <title id="mp-title">Karten-Silhouette Dorfstraße</title>
+  <rect width="400" height="220" fill="#E8DCC8"/>
+  <path d="M0 110 L80 100 L160 120 L240 95 L320 115 L400 105" fill="none" stroke="#9AA0A6" stroke-width="8"/>
+  <path d="M200 40 L200 160" fill="none" stroke="#9AA0A6" stroke-width="4" opacity="0.5"/>
+  <circle cx="200" cy="100" r="18" fill="#C23A4B"/>
+  <path d="M200 75 L210 100 L200 125 L190 100 Z" fill="#1A1B1D"/>
+  <text x="200" y="195" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#1F2023">Dorfstraße 32</text>
+</svg>

@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Espresso Platzhalter"><rect width="200" height="200" fill="#1A1B1D"/><ellipse cx="100" cy="120" rx="48" ry="18" fill="#2A2B2E"/><path d="M70 70h60v45c0 16-13 30-30 30s-30-14-30-30V70z" fill="#5C4033"/><ellipse cx="100" cy="70" rx="30" ry="8" fill="#3D291B"/><text x="100" y="175" text-anchor="middle" fill="#F4EFE6" font-size="12" font-family="system-ui,sans-serif">Espresso</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="es-title">
+  <title id="es-title">Espresso-Auslauf Silhouette</title>
+  <rect width="200" height="200" fill="#1A1B1D"/>
+  <rect x="40" y="30" width="120" height="50" rx="4" fill="#2A2B2E" stroke="#9AA0A6" stroke-width="2"/>
+  <rect x="85" y="80" width="30" height="18" fill="#9AA0A6"/>
+  <path d="M95 98 Q100 120 100 140" stroke="#F4EFE6" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <ellipse cx="100" cy="155" rx="28" ry="8" fill="none" stroke="#F4EFE6" stroke-width="2"/>
+  <path d="M72 155 Q72 175 100 175 Q128 175 128 155" fill="none" stroke="#F4EFE6" stroke-width="2"/>
+  <circle cx="100" cy="125" r="3" fill="#C23A4B" opacity="0.8"/>
+</svg>

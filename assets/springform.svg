@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Springform Platzhalter"><circle cx="100" cy="100" r="92" fill="#1A1B1D"/><circle cx="100" cy="100" r="78" fill="none" stroke="#9AA0A6" stroke-width="3"/><circle cx="100" cy="100" r="70" fill="#2A2B2E"/><text x="100" y="108" text-anchor="middle" fill="#F4EFE6" font-family="system-ui,sans-serif" font-size="14">Springform</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="sf-title">
+  <title id="sf-title">Springform-Silhouette</title>
+  <circle cx="100" cy="100" r="88" fill="#2A2B2E" stroke="#F4EFE6" stroke-width="3"/>
+  <circle cx="100" cy="100" r="72" fill="none" stroke="#9AA0A6" stroke-width="2" stroke-dasharray="4 6"/>
+  <circle cx="100" cy="100" r="48" fill="none" stroke="#C23A4B" stroke-width="1.5" opacity="0.7"/>
+  <path d="M100 28 L100 172 M28 100 L172 100" stroke="#9AA0A6" stroke-width="1" opacity="0.35"/>
+  <rect x="86" y="8" width="28" height="14" rx="2" fill="#9AA0A6"/>
+</svg>

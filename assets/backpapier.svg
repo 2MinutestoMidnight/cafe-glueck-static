@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120"><defs><pattern id="p" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#C5B4D6" opacity=".35"/></pattern></defs><rect width="120" height="120" fill="url(#p)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/></filter>
+  <rect width="40" height="40" fill="#E8DCC8"/>
+  <rect width="40" height="40" filter="url(#n)" opacity="0.15"/>
+</svg>
